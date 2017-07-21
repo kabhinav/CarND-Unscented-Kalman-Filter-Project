@@ -1,10 +1,8 @@
 # Unscented Kalman Filter Project Starter Code
 Self-Driving Car Engineer Nanodegree Program
 
-Dataset 1
 ![alt text](UKF_dt1.png)
 
-Dataset2
 ![alt text](UKF_dt2.png)
 
 In this project utilize an Unscented Kalman Filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. Passing the project requires obtaining RMSE values that are lower that the tolerance outlined in the project reburic.
